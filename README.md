@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on ... I am still hanging😭, but mainly focus on the multimedia security🧿...
+🔭 I’m currently working on multimedia security, especially the image tampering
 
-📫 How to reach me: https://greatzh.github.io/
+📫 reach me: https://greatzh.github.io/
 <!--
 **greatzh/greatzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
