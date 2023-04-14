@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on multimedia security, especially the image tampering
+🔭 I’m currently working on ~~multimedia security, especially the image tampering~~ NOTHING.
 
 📫 reach me: https://greatzh.github.io/
 <!--
